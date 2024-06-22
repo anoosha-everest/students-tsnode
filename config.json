@@ -1,0 +1,6 @@
+{
+  "masterDataPath": "files/MasterData.csv",
+  "studentMarksPath": "files/StudentMarks.csv",
+  "studentName":"Anoosha",
+  "subjectName":"Maths"
+}
